@@ -1,0 +1,1 @@
+            seatingChart[r][c] = "🪑" + seatingChart[r][c]; 
